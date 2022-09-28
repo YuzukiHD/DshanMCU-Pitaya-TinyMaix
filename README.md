@@ -11,7 +11,7 @@
 |Acceleration| CPU |
 
 ## Board
-![pitaya](assets/pitaya.jpg)
+![pitaya](assets/Pitaya.jpg)
 
 ## Development Environment
 MDK 5.37
