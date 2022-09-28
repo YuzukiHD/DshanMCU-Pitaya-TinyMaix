@@ -1,4 +1,4 @@
-# Port TinyMaix to MM32F3270
+# Port TinyMaix to DshanMCU Pitaya MM32F3270
 
 ## Chip
 |Item |Parameter|
